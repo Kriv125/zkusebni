@@ -9,3 +9,7 @@
 <strong>silnej text</strong>
 
 *kurzivnej text* 
+
+-tohle
+-je
+-seznam

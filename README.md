@@ -11,5 +11,7 @@
 *kurzivnej text* 
 
 -tohle
+
 -je
+
 -seznam

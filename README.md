@@ -7,4 +7,5 @@
 <p>porad maly text</p>
 <h3>trohu vetsi text</h3>
 <strong>silnej text</strong>
+
 *kurzivnej text* 

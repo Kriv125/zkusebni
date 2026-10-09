@@ -6,3 +6,4 @@
 ## trohu mensi text
 <p>porad maly text</p>
 <h3>mensi text</h3>
+<strong>silnej text</strong>

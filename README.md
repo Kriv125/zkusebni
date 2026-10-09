@@ -10,8 +10,8 @@
 
 *kurzivnej text* 
 
--tohle
+- tohle
 
--je
+- je
 
--seznam
+- seznam
